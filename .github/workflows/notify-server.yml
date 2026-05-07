@@ -1,0 +1,17 @@
+name: Notify Server on Wiki Changes
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Notify server to pull changes
+        run: |
+          curl -X POST ${{ secrets.SERVER_WEBHOOK_URL }} \
+            -H "Content-Type: application/json" \
+            -H "X-Webhook-Secret: ${{ secrets.SERVER_WEBHOOK_SECRET }}" \
+            -d '{"event":"wiki_update","commit":"${{ github.sha }}","repository":"${{ github.repository }}"}'
