@@ -11,7 +11,7 @@ icon: microchip
 
 ## Ядро сервера
 
-> В мире ферм установлено ядро [Purpur](https://purpurmc.org/).
+> В мире ферм установлено ядро, базирующиеся на Paper.
 
 ***
 
@@ -21,21 +21,21 @@ icon: microchip
 {% tab title="bukkit.yml" %}
 ```yaml
 spawn-limits: # Лимиты по количеству мобов на игрока
-  monsters: 35
-  animals: 8
-  water-animals: 15
-  water-ambient: 5
-  water-underground-creature: 5
-  axolotls: 5
-  ambient: 15
+  monsters: 40
+  animals: 5
+  water-animals: 3
+  water-ambient: 3
+  water-underground-creature: 2
+  axolotls: 2
+  ambient: 1
 ticks-per: # Время в тиках (20 тиков = 1 секунда), между спавном мобов
-  monster-spawns: 6
+  monster-spawns: 1
   animal-spawns: 400
-  water-spawns: 12
-  water-ambient-spawns: 12
-  water-underground-creature-spawns: 12
-  axolotl-spawns: 12
-  ambient-spawns: 12
+  water-spawns: 400
+  water-ambient-spawns: 400
+  water-underground-creature-spawns: 400
+  axolotl-spawns: 400
+  ambient-spawns: 400
 ```
 {% endtab %}
 
@@ -43,22 +43,22 @@ ticks-per: # Время в тиках (20 тиков = 1 секунда), меж
 ```yaml
 world-settings:
   default:
-    mob-spawn-range: 3 # Радиус в чанках от игрока, в котором будут спавниться мобы
+    mob-spawn-range: 4 # Радиус в чанках от игрока, в котором будут спавниться мобы
     entity-activation-range: # Радиус в блоках, в котором мобы будут активны
-      animals: 32
-      monsters: 32
-      raiders: 12
-      misc: 16
-      water: 16
-      villagers: 32
-      flying-monsters: 32
+      animals: 16
+      monsters: 18
+      raiders: 16
+      misc: 12
+      water: 12
+      villagers: 12
+      flying-monsters: 24
     entity-tracking-range: # Радиус в блоках, в котором мобы будут прогружаться
-      players: 48
+      players: 80
       animals: 48
       monsters: 48
       misc: 32
-      display: 128
-      other: 64
+      display: 96
+      other: 48
     ticks-per: # Настройки поведения воронок
       hopper-transfer: 8
       hopper-check: 1
@@ -69,10 +69,10 @@ world-settings:
 {% tab title="purpur.yml" %}
 ```yaml
 villager:
+  allow-trading: true # Сделки включены
   lobotomize: # Настройка состояния интеллекта у жителей
     enabled: false # Интеллект включен
     check-interval: 100
-    wait-until-trade-locked: false
 ```
 {% endtab %}
 
@@ -81,54 +81,38 @@ villager:
 despawn-range-shape: ELLIPSOID
     despawn-ranges:
       ambient:
-        hard:
-          horizontal: 56
-          vertical: 128
-        soft: 32
+        hard: 56
+        soft: 30
       axolotls:
-        hard:
-          horizontal: 56
-          vertical: 128
-        soft: 32
+        hard: 56
+        soft: 30
       creature:
-        hard:
-          horizontal: 56
-          vertical: 128
-        soft: 32
+        hard: 56
+        soft: 30
       misc:
-        hard:
-          horizontal: 56
-          vertical: 128
-        soft: 32
+        hard: 56
+        soft: 30
       monster:
-        hard:
-          horizontal: 56
-          vertical: 128
-        soft: 32
+        hard: 56
+        soft: 30
       underground_water_creature:
-        hard:
-          horizontal: 56
-          vertical: 128
-        soft: 32
+        hard: 56
+        soft: 30
       water_ambient:
-        hard:
-          horizontal: 56
-          vertical: 128
-        soft: 32
+        hard: 56
+        soft: 30
       water_creature:
-        hard:
-          horizontal: 56
-          vertical: 128
-        soft: 32
+        hard: 56
+        soft: 30
 tick-rates:
   behavior:
     villager:
       acquirepoi: 120
       validatenearbypoi: 60
-  container-update: 1
-  dry-farmland: 1
-  grass-spread: 8
-  mob-spawner: 4
+  container-update: 3
+  dry-farmland: 4
+  grass-spread: 4
+  mob-spawner: 8
   sensor:
     villager:
       nearestbedsensor: 80
@@ -136,7 +120,7 @@ tick-rates:
       playersensor: 40
       secondarypoisensor: 80
       villagerbabiessensor: 40
-  wet-farmland: 1
+  wet-farmland: 4
 ```
 {% endtab %}
 {% endtabs %}
@@ -146,4 +130,6 @@ tick-rates:
 ## Прочие настройки
 
 * Дюп динамита включен, максимальное количество взрывов динамита на тик неограниченно.
+* Дюп ковров, рельс выключен.
 * Отключены скидки у жителей после излечения от заражения.
+* Понижены скидки у жителей от эффекта "Герой Деревни".

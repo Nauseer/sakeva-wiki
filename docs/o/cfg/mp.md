@@ -11,7 +11,7 @@ icon: microchip
 
 ## Ядро сервера
 
-> В мире построек установлено ядро [Purpur](https://purpurmc.org/).
+> В мире построек установлено ядро, базирующиеся на Paper.
 
 ***
 
@@ -21,15 +21,15 @@ icon: microchip
 {% tab title="bukkit.yml" %}
 ```yaml
 spawn-limits: # Лимиты по количеству мобов на игрока
-  monsters: 2
-  animals: 5
-  water-animals: 2
-  water-ambient: 2
-  water-underground-creature: 3
-  axolotls: 3
+  monsters: 1
+  animals: 3
+  water-animals: 1
+  water-ambient: 1
+  water-underground-creature: 1
+  axolotls: 2
   ambient: 1
 ticks-per: # Время в тиках (20 тиков = 1 секунда), между спавном мобов
-  monster-spawns: 10
+  monster-spawns: 400
   animal-spawns: 400
   water-spawns: 400
   water-ambient-spawns: 400
@@ -43,22 +43,22 @@ ticks-per: # Время в тиках (20 тиков = 1 секунда), меж
 ```yaml
 world-settings:
   default:
-    mob-spawn-range: 3 # Радиус в чанках от игрока, в котором будут спавниться мобы
+    mob-spawn-range: 4 # Радиус в чанках от игрока, в котором будут спавниться мобы
     entity-activation-range: # Радиус в блоках, в котором мобы будут активны
       animals: 16
-      monsters: 24
-      raiders: 24
-      misc: 8
-      water: 8
-      villagers: 16
+      monsters: 18
+      raiders: 16
+      misc: 12
+      water: 12
+      villagers: 12
       flying-monsters: 24
     entity-tracking-range: # Радиус в блоках, в котором мобы будут прогружаться
-      players: 48
+      players: 80
       animals: 48
       monsters: 48
       misc: 32
-      display: 128
-      other: 64
+      display: 96
+      other: 48
     ticks-per: # Настройки поведения воронок
       hopper-transfer: 8
       hopper-check: 8
@@ -69,10 +69,10 @@ world-settings:
 {% tab title="purpur.yml" %}
 ```yaml
 villager:
+  allow-trading: false # Сделки отключены
   lobotomize: # Настройка состояния интеллекта у жителей
     enabled: true # Интеллект отключен
     check-interval: 100
-    wait-until-trade-locked: false
 ```
 {% endtab %}
 
@@ -81,46 +81,46 @@ villager:
 despawn-range-shape: ELLIPSOID
     despawn-ranges:
       ambient:
-        hard: 72
-        soft: 32
+        hard: 56
+        soft: 30
       axolotls:
-        hard: 72
-        soft: 32
+        hard: 56
+        soft: 30
       creature:
-        hard: 72
-        soft: 32
+        hard: 56
+        soft: 30
       misc:
-        hard: 72
-        soft: 32
+        hard: 56
+        soft: 30
       monster:
-        hard: 72
-        soft: 32
+        hard: 56
+        soft: 30
       underground_water_creature:
-        hard: 72
-        soft: 32
+        hard: 56
+        soft: 30
       water_ambient:
-        hard: 72
-        soft: 32
+        hard: 56
+        soft: 30
       water_creature:
-        hard: 72
-        soft: 32
+        hard: 56
+        soft: 30
 tick-rates:
   behavior:
     villager:
       acquirepoi: 120
       validatenearbypoi: 60
-  container-update: 1
-  dry-farmland: 1
+  container-update: 3
+  dry-farmland: 4
   grass-spread: 4
-  mob-spawner: 2
+  mob-spawner: 8
   sensor:
     villager:
-      nearestbedsensor: 80
-      nearestlivingentitysensor: 40
-      playersensor: 40
-      secondarypoisensor: 80
+      nearestbedsensor: 200
+      nearestlivingentitysensor: 80
+      playersensor: 80
+      secondarypoisensor: 200
       villagerbabiessensor: 40
-  wet-farmland: 1
+  wet-farmland: 4
 ```
 {% endtab %}
 {% endtabs %}
@@ -130,4 +130,4 @@ tick-rates:
 ## Прочие настройки
 
 * Дюп динамита, ковров, рельс выключен.
-* Отключены скидки у жителей после излечения от заражения.
+* Отключены торги у жителей.
