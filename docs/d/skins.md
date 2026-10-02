@@ -25,18 +25,18 @@ icon: khanda
 
 > Стоимость — 269₽
 
-| Предмет                                | Вид от первого лица                                                       | Вид от третьего лица                                                      |
-| -------------------------------------- | ------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| <p>Алмазный Меч<br>Незеритовый Меч</p> | <img src="../.gitbook/assets/image (64).png" alt="" data-size="original"> | <img src="../.gitbook/assets/image (74).png" alt="" data-size="original"> |
-| <p>Алмазный Меч<br>Незеритовый Меч</p> | <img src="../.gitbook/assets/image (65).png" alt="" data-size="original"> | <img src="../.gitbook/assets/image (75).png" alt="" data-size="original"> |
-| <p>Алмазный Меч<br>Незеритовый Меч</p> | <img src="../.gitbook/assets/image (66).png" alt="" data-size="original"> | <img src="../.gitbook/assets/image (76).png" alt="" data-size="original"> |
-| <p>Алмазный Меч<br>Незеритовый Меч</p> | <img src="../.gitbook/assets/image (67).png" alt="" data-size="original"> | <img src="../.gitbook/assets/image (77).png" alt="" data-size="original"> |
-| <p>Алмазный Меч<br>Незеритовый Меч</p> | <img src="../.gitbook/assets/image (68).png" alt="" data-size="original"> | <img src="../.gitbook/assets/image (78).png" alt="" data-size="original"> |
-| <p>Алмазный Меч<br>Незеритовый Меч</p> | <img src="../.gitbook/assets/image (69).png" alt="" data-size="original"> | <img src="../.gitbook/assets/image (79).png" alt="" data-size="original"> |
-| <p>Алмазный Меч<br>Незеритовый Меч</p> | <img src="../.gitbook/assets/image (70).png" alt="" data-size="original"> | <img src="../.gitbook/assets/image (80).png" alt="" data-size="original"> |
-| <p>Алмазный Меч<br>Незеритовый Меч</p> | <img src="../.gitbook/assets/image (71).png" alt="" data-size="original"> | <img src="../.gitbook/assets/image (81).png" alt="" data-size="original"> |
-| <p>Алмазный Меч<br>Незеритовый Меч</p> | <img src="../.gitbook/assets/image (72).png" alt="" data-size="original"> | <img src="../.gitbook/assets/image (82).png" alt="" data-size="original"> |
-| <p>Алмазный Меч<br>Незеритовый Меч</p> | <img src="../.gitbook/assets/image (73).png" alt="" data-size="original"> | <img src="../.gitbook/assets/image (83).png" alt="" data-size="original"> |
+| Предмет                                | Вид от первого лица                                                        | Вид от третьего лица                                                       |
+| -------------------------------------- | -------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| <p>Алмазный Меч<br>Незеритовый Меч</p> | <img src="/broken/files/FCjl6lo4IbemmUSh6JnS" alt="" data-size="original"> | <img src="/broken/files/wSHAKed8YndteiyXh81o" alt="" data-size="original"> |
+| <p>Алмазный Меч<br>Незеритовый Меч</p> | <img src="/broken/files/khGhyMtfq5HxwUapyvPs" alt="" data-size="original"> | <img src="/broken/files/gYziy3bgT5mfqp6jQiUE" alt="" data-size="original"> |
+| <p>Алмазный Меч<br>Незеритовый Меч</p> | <img src="/broken/files/DzfQWoUTaqDYUy7Nxf44" alt="" data-size="original"> | <img src="/broken/files/yACu1GehezZlq3xtRziF" alt="" data-size="original"> |
+| <p>Алмазный Меч<br>Незеритовый Меч</p> | <img src="/broken/files/QDBwzZ0hS1P7hBPGyZ5B" alt="" data-size="original"> | <img src="/broken/files/uJbpEAw1xh5wJq3ElmzH" alt="" data-size="original"> |
+| <p>Алмазный Меч<br>Незеритовый Меч</p> | <img src="/broken/files/jbu4OtzUv8NcVVR8DpDX" alt="" data-size="original"> | <img src="/broken/files/FmJkqipQLa4KS2XTuogi" alt="" data-size="original"> |
+| <p>Алмазный Меч<br>Незеритовый Меч</p> | <img src="/broken/files/sHWXkAarh020rZWj6pS9" alt="" data-size="original"> | <img src="/broken/files/zgO021MKBQbvQBlT7h3E" alt="" data-size="original"> |
+| <p>Алмазный Меч<br>Незеритовый Меч</p> | <img src="/broken/files/oDaYEJr5lPjiwgiCNjKs" alt="" data-size="original"> | <img src="/broken/files/ipkXdXd591Ii1IL4HPxe" alt="" data-size="original"> |
+| <p>Алмазный Меч<br>Незеритовый Меч</p> | <img src="/broken/files/ro8JpGbrMzq2wVMx7I6M" alt="" data-size="original"> | <img src="/broken/files/qrhSC3XlfdSHGGbGJrSF" alt="" data-size="original"> |
+| <p>Алмазный Меч<br>Незеритовый Меч</p> | <img src="/broken/files/HX55AjtNVReFYHBwHK5l" alt="" data-size="original"> | <img src="/broken/files/gipPyddiFgqMyn3JmkML" alt="" data-size="original"> |
+| <p>Алмазный Меч<br>Незеритовый Меч</p> | <img src="/broken/files/vmReNogDjbWP37CNGrHd" alt="" data-size="original"> | <img src="/broken/files/6W65GMclZc3uuP97sssP" alt="" data-size="original"> |
 
 ***
 
@@ -47,9 +47,9 @@ icon: khanda
 > Скины в этой коллекции являются анимированными.\
 > Полный просмотр анимации доступен только в игре.
 
-| Предмет                                | Вид от первого лица                                                       | Вид от третьего лица                                                      |
-| -------------------------------------- | ------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| <p>Алмазный Меч<br>Незеритовый Меч</p> | <img src="../.gitbook/assets/image (85).png" alt="" data-size="original"> | <img src="../.gitbook/assets/image (84).png" alt="" data-size="original"> |
+| Предмет                                | Вид от первого лица                                                        | Вид от третьего лица                                                       |
+| -------------------------------------- | -------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| <p>Алмазный Меч<br>Незеритовый Меч</p> | <img src="/broken/files/24PlTvNWFx2E9TwNUIBX" alt="" data-size="original"> | <img src="/broken/files/vv2fin1iQsGCfysrSbz4" alt="" data-size="original"> |
 
 ***
 
@@ -57,13 +57,13 @@ icon: khanda
 
 > Стоимость — 369₽
 
-| Предмет                                                       | Вид от третьего лица                                                      |
-| ------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| <p>Алмазный Шлем<br>Незеритовый Шлем<br>Черепаший Панцирь</p> | <img src="../.gitbook/assets/image (86).png" alt="" data-size="original"> |
-| <p>Алмазный Шлем<br>Незеритовый Шлем<br>Черепаший Панцирь</p> | <img src="../.gitbook/assets/image (87).png" alt="" data-size="original"> |
-| <p>Алмазный Шлем<br>Незеритовый Шлем<br>Черепаший Панцирь</p> | <img src="../.gitbook/assets/image (88).png" alt="" data-size="original"> |
-| <p>Алмазный Шлем<br>Незеритовый Шлем<br>Черепаший Панцирь</p> | <img src="../.gitbook/assets/image (89).png" alt="" data-size="original"> |
-| <p>Алмазный Шлем<br>Незеритовый Шлем<br>Черепаший Панцирь</p> | <img src="../.gitbook/assets/image (90).png" alt="" data-size="original"> |
+| Предмет                                                       | Вид от третьего лица                                                       |
+| ------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| <p>Алмазный Шлем<br>Незеритовый Шлем<br>Черепаший Панцирь</p> | <img src="/broken/files/Amy41CnhZc49pFP2vpp4" alt="" data-size="original"> |
+| <p>Алмазный Шлем<br>Незеритовый Шлем<br>Черепаший Панцирь</p> | <img src="/broken/files/RxgMiEr5eXCYX9deiHM7" alt="" data-size="original"> |
+| <p>Алмазный Шлем<br>Незеритовый Шлем<br>Черепаший Панцирь</p> | <img src="/broken/files/ooFzNyeheqRFNGLlHbDU" alt="" data-size="original"> |
+| <p>Алмазный Шлем<br>Незеритовый Шлем<br>Черепаший Панцирь</p> | <img src="/broken/files/LLGDdvZoIW4BZBrXfb0X" alt="" data-size="original"> |
+| <p>Алмазный Шлем<br>Незеритовый Шлем<br>Черепаший Панцирь</p> | <img src="/broken/files/AtcUvjxi7yJRqEtoWVya" alt="" data-size="original"> |
 
 ***
 
@@ -71,14 +71,14 @@ icon: khanda
 
 > Стоимость — 469₽
 
-| Предмет                                                       | Вид от третьего лица                                                      |
-| ------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| <p>Алмазный Шлем<br>Незеритовый Шлем<br>Черепаший Панцирь</p> | <img src="../.gitbook/assets/image (91).png" alt="" data-size="original"> |
-| <p>Алмазный Шлем<br>Незеритовый Шлем<br>Черепаший Панцирь</p> | <img src="../.gitbook/assets/image (92).png" alt="" data-size="original"> |
-| <p>Алмазный Шлем<br>Незеритовый Шлем<br>Черепаший Панцирь</p> | <img src="../.gitbook/assets/image (93).png" alt="" data-size="original"> |
-| <p>Алмазный Шлем<br>Незеритовый Шлем<br>Черепаший Панцирь</p> | <img src="../.gitbook/assets/image (94).png" alt="" data-size="original"> |
-| <p>Алмазный Шлем<br>Незеритовый Шлем<br>Черепаший Панцирь</p> | <img src="../.gitbook/assets/image (95).png" alt="" data-size="original"> |
-| <p>Алмазный Шлем<br>Незеритовый Шлем<br>Черепаший Панцирь</p> | <img src="../.gitbook/assets/image (96).png" alt="" data-size="original"> |
+| Предмет                                                       | Вид от третьего лица                                                       |
+| ------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| <p>Алмазный Шлем<br>Незеритовый Шлем<br>Черепаший Панцирь</p> | <img src="/broken/files/aIg0Z255HWLwn6Z635rN" alt="" data-size="original"> |
+| <p>Алмазный Шлем<br>Незеритовый Шлем<br>Черепаший Панцирь</p> | <img src="/broken/files/I1hcOVsSdpllJQeTHIr5" alt="" data-size="original"> |
+| <p>Алмазный Шлем<br>Незеритовый Шлем<br>Черепаший Панцирь</p> | <img src="/broken/files/ddrDhuaSn1gHKE6PjVNf" alt="" data-size="original"> |
+| <p>Алмазный Шлем<br>Незеритовый Шлем<br>Черепаший Панцирь</p> | <img src="/broken/files/apcenmAlGJI02y9wB6WR" alt="" data-size="original"> |
+| <p>Алмазный Шлем<br>Незеритовый Шлем<br>Черепаший Панцирь</p> | <img src="/broken/files/hf8U3noNf7kY1mDUSovQ" alt="" data-size="original"> |
+| <p>Алмазный Шлем<br>Незеритовый Шлем<br>Черепаший Панцирь</p> | <img src="/broken/files/9boMo1w4q1oHxNN9ULzg" alt="" data-size="original"> |
 
 ***
 
@@ -88,15 +88,15 @@ icon: khanda
 
 | Предмет                                      | Вид от первого лица                                                        | Вид от третьего лица                                                       |
 | -------------------------------------------- | -------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
-| <p>Алмазный Меч<br>Незеритовый Меч</p>       | <img src="../.gitbook/assets/image (105).png" alt="" data-size="original"> | <img src="../.gitbook/assets/image (97).png" alt="" data-size="original">  |
-| <p>Алмазная Кирка<br>Незеритовая Кирка</p>   | <img src="../.gitbook/assets/image (107).png" alt="" data-size="original"> | <img src="../.gitbook/assets/image (99).png" alt="" data-size="original">  |
-| <p>Алмазный Топор<br>Незеритовый Топор</p>   | <img src="../.gitbook/assets/image (108).png" alt="" data-size="original"> | <img src="../.gitbook/assets/image (100).png" alt="" data-size="original"> |
-| <p>Алмазная Лопата<br>Незеритовая Лопата</p> | <img src="../.gitbook/assets/image (106).png" alt="" data-size="original"> | <img src="../.gitbook/assets/image (98).png" alt="" data-size="original">  |
-| <p>Алмазная Мотыга<br>Незеритовая Мотыга</p> | <img src="../.gitbook/assets/image (113).png" alt="" data-size="original"> | <img src="../.gitbook/assets/image (114).png" alt="" data-size="original"> |
-| Лук                                          | <img src="../.gitbook/assets/image (109).png" alt="" data-size="original"> | <img src="../.gitbook/assets/image (101).png" alt="" data-size="original"> |
-| Арбалет                                      | <img src="../.gitbook/assets/image (110).png" alt="" data-size="original"> | <img src="../.gitbook/assets/image (102).png" alt="" data-size="original"> |
-| Булава                                       | <img src="../.gitbook/assets/image (111).png" alt="" data-size="original"> | <img src="../.gitbook/assets/image (103).png" alt="" data-size="original"> |
-| Щит                                          | <img src="../.gitbook/assets/image (112).png" alt="" data-size="original"> | <img src="../.gitbook/assets/image (104).png" alt="" data-size="original"> |
+| <p>Алмазный Меч<br>Незеритовый Меч</p>       | <img src="/broken/files/6v2hfBANS9pAPMjrth37" alt="" data-size="original"> | <img src="/broken/files/O940LpDWGSUWVvWxNON7" alt="" data-size="original"> |
+| <p>Алмазная Кирка<br>Незеритовая Кирка</p>   | <img src="/broken/files/lsZMTC5sgBnuNA5zEYXR" alt="" data-size="original"> | <img src="/broken/files/5c9MdIl1gEOscudyiMvz" alt="" data-size="original"> |
+| <p>Алмазный Топор<br>Незеритовый Топор</p>   | <img src="/broken/files/CZi6VLLIahTBLpORqH6H" alt="" data-size="original"> | <img src="/broken/files/78h3iVxOqLBMvjMy9pNp" alt="" data-size="original"> |
+| <p>Алмазная Лопата<br>Незеритовая Лопата</p> | <img src="/broken/files/uXaXTpy2GHbxKuTektWf" alt="" data-size="original"> | <img src="/broken/files/OScy7D9xxWaBBARABa2V" alt="" data-size="original"> |
+| <p>Алмазная Мотыга<br>Незеритовая Мотыга</p> | <img src="/broken/files/ympfWqg49W47xxf6jRir" alt="" data-size="original"> | <img src="/broken/files/oPBDwGKYPidrIXIf4gI2" alt="" data-size="original"> |
+| Лук                                          | <img src="/broken/files/qVQiT3yfIRNhUWcaajxr" alt="" data-size="original"> | <img src="/broken/files/LJ2yxGEgZlXDceckyNX7" alt="" data-size="original"> |
+| Арбалет                                      | <img src="/broken/files/N9ZKBTnDPuvFyZdpsuhd" alt="" data-size="original"> | <img src="/broken/files/zFW3IN8NgQDtpmntaR2H" alt="" data-size="original"> |
+| Булава                                       | <img src="/broken/files/CEMqnIab1WjfkYFF5fWJ" alt="" data-size="original"> | <img src="/broken/files/tK4bcSGnimFcQFV6coBK" alt="" data-size="original"> |
+| Щит                                          | <img src="/broken/files/op608gFYY4teA48mp3wf" alt="" data-size="original"> | <img src="/broken/files/WEkAhhGtnJ4DXofgaFkK" alt="" data-size="original"> |
 
 ***
 
@@ -106,13 +106,13 @@ icon: khanda
 
 | Предмет                                      | Вид от первого лица                                                        | Вид от третьего лица                                                       |
 | -------------------------------------------- | -------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
-| <p>Алмазный Меч<br>Незеритовый Меч</p>       | <img src="../.gitbook/assets/image (122).png" alt="" data-size="original"> | <img src="../.gitbook/assets/image (115).png" alt="" data-size="original"> |
-| <p>Алмазная Кирка<br>Незеритовая Кирка</p>   | <img src="../.gitbook/assets/image (124).png" alt="" data-size="original"> | <img src="../.gitbook/assets/image (117).png" alt="" data-size="original"> |
-| <p>Алмазный Топор<br>Незеритовый Топор</p>   | <img src="../.gitbook/assets/image (125).png" alt="" data-size="original"> | <img src="../.gitbook/assets/image (118).png" alt="" data-size="original"> |
-| <p>Алмазная Лопата<br>Незеритовая Лопата</p> | <img src="../.gitbook/assets/image (123).png" alt="" data-size="original"> | <img src="../.gitbook/assets/image (116).png" alt="" data-size="original"> |
-| <p>Алмазная Мотыга<br>Незеритовая Мотыга</p> | <img src="../.gitbook/assets/image (126).png" alt="" data-size="original"> | <img src="../.gitbook/assets/image (119).png" alt="" data-size="original"> |
-| Лук                                          | <img src="../.gitbook/assets/image (127).png" alt="" data-size="original"> | <img src="../.gitbook/assets/image (120).png" alt="" data-size="original"> |
-| Щит                                          | <img src="../.gitbook/assets/image (128).png" alt="" data-size="original"> | <img src="../.gitbook/assets/image (121).png" alt="" data-size="original"> |
+| <p>Алмазный Меч<br>Незеритовый Меч</p>       | <img src="/broken/files/tTex9R0LmROgXpUQQJiG" alt="" data-size="original"> | <img src="/broken/files/SuFSUD58czC2hEE1w3uc" alt="" data-size="original"> |
+| <p>Алмазная Кирка<br>Незеритовая Кирка</p>   | <img src="/broken/files/F9IzrTqmpzXNKww0Ui8w" alt="" data-size="original"> | <img src="/broken/files/R91UrRSJDWLJT0UmVvDx" alt="" data-size="original"> |
+| <p>Алмазный Топор<br>Незеритовый Топор</p>   | <img src="/broken/files/mwNsqVZLSI83yxCbRxRP" alt="" data-size="original"> | <img src="/broken/files/rSn4IK2K3ClNrSk38adr" alt="" data-size="original"> |
+| <p>Алмазная Лопата<br>Незеритовая Лопата</p> | <img src="/broken/files/QCa1cMVQLtUIMg6XO7ok" alt="" data-size="original"> | <img src="/broken/files/WUex0h6czXFyJVd7bFf3" alt="" data-size="original"> |
+| <p>Алмазная Мотыга<br>Незеритовая Мотыга</p> | <img src="/broken/files/lX08LU3NRVO3kdV4ShUc" alt="" data-size="original"> | <img src="/broken/files/FsGMh0vgF1RwATTx29uZ" alt="" data-size="original"> |
+| Лук                                          | <img src="/broken/files/SLiRB7T9u7mjYgqnTiJ0" alt="" data-size="original"> | <img src="/broken/files/wzFuMnzerVNQDFQE8vKc" alt="" data-size="original"> |
+| Щит                                          | <img src="/broken/files/QxnZTfmhabhsna1DUAHI" alt="" data-size="original"> | <img src="/broken/files/04VU46xCWaoSKCQGjAfn" alt="" data-size="original"> |
 
 ***
 
@@ -125,14 +125,14 @@ icon: khanda
 
 | Предмет                                                       | Вид от первого лица                                                        | Вид от третьего лица                                                       |
 | ------------------------------------------------------------- | -------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
-| <p>Алмазный Меч<br>Незеритовый Меч</p>                        | ![](<../.gitbook/assets/image (129).png>)                                  | -                                                                          |
-| <p>Алмазная Кирка<br>Незеритовая Кирка</p>                    | ![](<../.gitbook/assets/image (130).png>)                                  | -                                                                          |
-| <p>Алмазный Топор<br>Незеритовый Топор</p>                    | <img src="../.gitbook/assets/image (131).png" alt="" data-size="original"> | -                                                                          |
-| <p>Алмазная Лопата<br>Незеритовая Лопата</p>                  | <img src="../.gitbook/assets/image (132).png" alt="" data-size="original"> | -                                                                          |
-| <p>Алмазная Мотыга<br>Незеритовая Мотыга</p>                  | <img src="../.gitbook/assets/image (133).png" alt="" data-size="original"> | -                                                                          |
-| Лук                                                           | <img src="../.gitbook/assets/image (134).png" alt="" data-size="original"> | -                                                                          |
-| Арбалет                                                       | <img src="../.gitbook/assets/image (135).png" alt="" data-size="original"> | -                                                                          |
-| Щит                                                           | <img src="../.gitbook/assets/image (136).png" alt="" data-size="original"> | -                                                                          |
-| Булава                                                        | <img src="../.gitbook/assets/image (137).png" alt="" data-size="original"> | -                                                                          |
-| Булава                                                        | <img src="../.gitbook/assets/image (138).png" alt="" data-size="original"> | -                                                                          |
-| <p>Алмазный Шлем<br>Незеритовый Шлем<br>Черепаший Панцирь</p> | -                                                                          | <img src="../.gitbook/assets/image (139).png" alt="" data-size="original"> |
+| <p>Алмазный Меч<br>Незеритовый Меч</p>                        | ![](/broken/files/JRWwUSacWDhkgSQMoEvU)                                    | -                                                                          |
+| <p>Алмазная Кирка<br>Незеритовая Кирка</p>                    | ![](/broken/files/1Mg1JNi3mAflf6gv0SpQ)                                    | -                                                                          |
+| <p>Алмазный Топор<br>Незеритовый Топор</p>                    | <img src="/broken/files/jkI6dYGJ3qnk7Oeiew1L" alt="" data-size="original"> | -                                                                          |
+| <p>Алмазная Лопата<br>Незеритовая Лопата</p>                  | <img src="/broken/files/7QzdTeIeBPNfYCz6S7J2" alt="" data-size="original"> | -                                                                          |
+| <p>Алмазная Мотыга<br>Незеритовая Мотыга</p>                  | <img src="/broken/files/LPI3QXn0pKwIo2Emo2pr" alt="" data-size="original"> | -                                                                          |
+| Лук                                                           | <img src="/broken/files/PoikTYrq30Ti93eyzTDJ" alt="" data-size="original"> | -                                                                          |
+| Арбалет                                                       | <img src="/broken/files/eFY9veNlbyvBSOw9jNOl" alt="" data-size="original"> | -                                                                          |
+| Щит                                                           | <img src="/broken/files/Ij4JEHfl6jzcFa8m3czF" alt="" data-size="original"> | -                                                                          |
+| Булава                                                        | <img src="/broken/files/P0qk51tqGsAqdMioLeiS" alt="" data-size="original"> | -                                                                          |
+| Булава                                                        | <img src="/broken/files/wtYhmBYRymuZQz1GPKbc" alt="" data-size="original"> | -                                                                          |
+| <p>Алмазный Шлем<br>Незеритовый Шлем<br>Черепаший Панцирь</p> | -                                                                          | <img src="/broken/files/Haz06Lz1doXvnGov0XAw" alt="" data-size="original"> |
