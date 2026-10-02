@@ -5,19 +5,19 @@ icon: ruler-triangle
 
 # Уникальные Крафты
 
-{% hint style="danger" %}
-Некоторые игроки сталкиваются с проблемой некорректного отображения крафтов в книге рецептов, включая верстак, камнерез и другие инструменты. Данная проблема обусловлена особенностями серверного ядра версии 1.21.11. Она возникает на всех клиентских версиях игры ниже 1.21.11, где работа рецептов остается корректной.
-{% endhint %}
-
 ***
 
 ## Невидимый свет
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (142).png" alt=""><figcaption></figcaption></figure>
 
-## Палочка отладки
+## Палка отладки
 
-<figure><img src="../.gitbook/assets/Screenshot_2 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+## Палка для стоек
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

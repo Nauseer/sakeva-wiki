@@ -34,13 +34,13 @@ icon: badge-sheriff
 **Текущее количество доступных значков в кейсе** — **100 штук.**
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
 ## Стоимость кейсов
 
-<figure><img src="../.gitbook/assets/image (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 | Количество | Полная стоимость | Стоимость за штуку | Выгода  |
 | ---------- | ---------------- | ------------------ | ------- |
